@@ -1,5 +1,6 @@
 # PiPERsimulation
 基于松灵PiPER机械臂的双臂数据进行的MATLAB仿真程序
+基于ChatGPT生成
 
 ## actionBuild模块
 用于解析单个动作
