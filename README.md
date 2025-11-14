@@ -10,13 +10,13 @@
 
 支持的输入格式为ROS/机器人控制系统里标准的 JointState 消息格式，应包含：
 
-  names: ["joint1", "joint2", "joint3", "joint4", "joint5", "joint6", "gripper"]
-  
-  pos: 每个关节的位置（角度 or 位移）
-  
-  vel: 速度（可选）
-  
-  effort: 力矩/力（可选）
+    names: ["joint1", "joint2", "joint3", "joint4", "joint5", "joint6", "gripper"]
+    
+    pos: 每个关节的位置（角度 or 位移）
+    
+    vel: 速度（可选）
+    
+    effort: 力矩/力（可选）
   
 程序为完整体现机械臂的动作进行了视野的修改  
 
